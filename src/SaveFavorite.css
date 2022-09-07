@@ -1,0 +1,23 @@
+.saveFavorite {
+  background-image: url("./image/tech3.jpg");
+  min-height: 100vh;
+}
+.saveforLater {
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #fff;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 30px;
+  padding-left: 120px;
+}
+.goBackIcon {
+  margin-left: 30px;
+  padding-top: 20px;
+}
+.notSave {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: large;
+  color: #fff;
+}
